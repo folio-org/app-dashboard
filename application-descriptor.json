@@ -1,0 +1,19 @@
+{
+  "name": "app-dashboard",
+  "version": "1.0.0-SNAPSHOT",
+  "description": "Application descriptor for the FOLIO Agreements application",
+  "platform": "complete",
+  "dependencies": [
+    {
+      "name": "app-service-interaction",
+      "version": "^1.0.0-SNAPSHOT"
+    }
+  ],
+  "modules": [],
+  "uiModules": [
+    {
+      "name": "folio_dashboard",
+      "version": "7.1.109900000000173"
+    }
+  ]
+}
