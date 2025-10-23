@@ -1,0 +1,21 @@
+{
+  "name": "${project.name}",
+  "version": "${project.version}",
+  "description": "${project.description}",
+  "platform": "complete",
+  "dependencies": [
+    {
+      "name": "app-service-interaction",
+      "version": "^1.0.0",
+      "preRelease": "false"
+    }
+  ],
+  "modules": [],
+  "uiModules": [
+    {
+      "name": "folio_dashboard",
+      "version": "latest",
+      "preRelease": "false"
+    }
+  ]
+}
