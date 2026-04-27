@@ -6,7 +6,7 @@
   "dependencies": [
     {
       "name": "app-service-interaction",
-      "version": "^VERSION_^1.0.0-SNAPSHOT",
+      "version": "~1.0.0",
       "preRelease": "false"
     }
   ],
@@ -14,7 +14,7 @@
   "uiModules": [
     {
       "name": "folio_dashboard",
-      "version": "^VERSION_latest",
+      "version": "~7.1.0",
       "preRelease": "false"
     }
   ]
